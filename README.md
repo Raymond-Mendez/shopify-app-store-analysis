@@ -15,7 +15,7 @@ Use the "Overview" page for a quick summary and the "Time Intelligence" page to 
 
 ## Submission
 
-Public GitHub repository name: shopify-app-store-analysis``
+Public GitHub repository name: `shopify-app-store-analysis`
 
 shopify-app-store-analysis/
 ├── README.md
