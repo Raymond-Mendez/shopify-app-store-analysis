@@ -20,12 +20,13 @@ Public GitHub repository name: `shopify-app-store-analysis`
 shopify-app-store-analysis/
 ├── README.md
 ├── report.pbix
-├── data/
-│   ├── apps.csv
-│   └── reviews.csv
-└── screenshots/
-    ├── overview_page.png
-    ├── trend_analysis_page.png
-    └── model_view.png
+├── report_revised.pbix
+├── apps.csv
+├── reviews.csv
+├── Overview_Revised.png
+├── Time_Intelligence_Revised.png
+├── model_view.png
+├── overview_page.png
+└── trend_analysis_page.png
 
 This repository includes the Power BI report, the data files, screenshots, and this memo. 
