@@ -30,3 +30,6 @@ shopify-app-store-analysis/
 └── trend_analysis_page.png
 
 This repository includes the Power BI report, the data files, screenshots, and this memo. 
+##Final report screenshots
+### Overview page
+### Time Intelligence page
